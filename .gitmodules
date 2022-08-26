@@ -1,0 +1,18 @@
+[submodule "donghwan"]
+	path = donghwan
+	url = https://github.com/Hwani12/axios-homework
+[submodule "soomin"]
+	path = soomin
+	url = https://github.com/sumin04/2022-08-26
+[submodule "wooseung"]
+	path = wooseung
+	url = https://github.com/pcs-highschool/HomeWork_filter.git
+[submodule "hyejin"]
+	path = hyejin
+	url = https://github.com/pcs-highschool/amuzAssignment.git
+[submodule "dohyun"]
+	path = dohyun
+	url = https://github.com/pcs-highschool/dohyeon_clear_assignment
+[submodule "takarada"]
+	path = takarada
+	url = https://github.com/Takarada0202/vue-board
