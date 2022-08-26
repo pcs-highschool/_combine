@@ -1,6 +1,6 @@
 # clone with submodules
 ```
-git clone https://github.com/amuzcorp/blackbox --recurse-submodules 
+git clone https://github.com/pcs-highschool/_combine --recurse-submodules 
 ```
 
 ## submodule update to remote
