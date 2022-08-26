@@ -1,8 +1,8 @@
 [submodule "donghwan"]
 	path = donghwan
 	url = https://github.com/Hwani12/axios-homework
-[submodule "soomin"]
-	path = soomin
+[submodule "sumin"]
+	path = sumin
 	url = https://github.com/sumin04/2022-08-26
 [submodule "wooseung"]
 	path = wooseung
